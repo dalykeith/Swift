@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Audio App/AppDelegate.swift"
+            timestampString = "483219676.672311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio_App.AppDelegate.__deallocating_deinit"
+                  moduleName = "Audio App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keithdaly/Desktop/Course%20work/Advanced%20Segues/Audio%20App/Audio%20App/AppDelegate.swift"
+                  timestampString = "483219676.68009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Audio_App.AppDelegate.init () -&gt; Audio_App.AppDelegate"
+                  moduleName = "Audio App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keithdaly/Desktop/Course%20work/Advanced%20Segues/Audio%20App/Audio%20App/AppDelegate.swift"
+                  timestampString = "483219676.680285"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Audio App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/keithdaly/Desktop/Course%20work/Advanced%20Segues/Audio%20App/Audio%20App/AppDelegate.swift"
+                  timestampString = "483219676.680378"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
